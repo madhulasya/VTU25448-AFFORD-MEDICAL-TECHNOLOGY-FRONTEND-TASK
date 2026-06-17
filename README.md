@@ -63,25 +63,7 @@ src/
 
 ---
 
-## Screenshots
 
-### All Notifications
-
-![All Notifications](screenshots/all-notifications.png)
-
-### Priority Notifications
-
-![Priority Notifications](screenshots/priority-notifications.png)
-
-### Placement Filter
-
-![Placement Filter](screenshots/filter-placement.png)
-
-### Mobile View
-
-![Mobile View](screenshots/mobile-view.png)
-
----
 
 ## Run Locally
 
